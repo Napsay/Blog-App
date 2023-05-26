@@ -1,0 +1,22 @@
+.button {
+    background-color: cadetblue;
+}
+
+.container{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.table.center thead tr th, .table.center tbody tr td {
+    text-align: center;
+}
+
+.w-2{
+    width: 150px;
+}
+
+.table, .w-2{
+    margin: 0 auto;
+}
